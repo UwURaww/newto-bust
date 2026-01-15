@@ -85,8 +85,11 @@ chmod +x netwo_burst.sh
 
 # Run
 ./netwo_burst.sh
+```
+```bash
 Quick Install
 proot-distro login archlinux -- bash -c "pacman -Syu --noconfirm && pacman -S git curl iputils bc --noconfirm && git clone https://github.com/yourusername/netwo-burst.git && cd netwo-burst && chmod +x netwo_burst.sh && ./netwo_burst.sh"
+```
 Usage
 Basic Usage
 ./netwo_burst.sh
@@ -94,19 +97,22 @@ Follow the prompts:
 Enter number of threads (e.g., 10)
 Monitor the attack in real-time
 Press Ctrl+C to stop
+
 Recommended Thread Counts
-Device
-Threads
-Notes
-Low-end
-5-10
-2-4 cores
-Mid-range
-10-20
-4-6 cores
-High-end
-20-50
-8+ cores
+
+|Device | Threads | Notes|
+|Low-end | 5-10 | 2-4 cores|
+|Mid-range | 10-20 | 4-6 cores|
+|High-end | 20-50 | 8+ cores|
+
+
+
+
+
+
+
+ 
+
 ⚠️ Too many threads may cause system instability
 Interface Preview
 Dashboard
