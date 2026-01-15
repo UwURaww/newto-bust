@@ -366,6 +366,8 @@ netwo-burst/
     ├── init.png
     ├── monitor.png
     └── stats.png
+```
+
 🤝 Contributing
 We welcome contributions! Here's how you can help:
 Reporting Bugs
@@ -475,5 +477,3 @@ Load image
 Made with ❤️ by network enthusiasts, for network enthusiasts
 ⬆ Back to Top
 ⚡ Don't forget to star ⭐ this repo if you found it useful! ⚡
-�
-```
